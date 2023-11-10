@@ -1,0 +1,16 @@
+﻿  pch.cpp
+D:\C++&Java\opennurbs-7.x\opennurbs_material.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\C++&Java\opennurbs-7.x\opennurbs_dimensionstyle.h(1860,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+   --- statically linking opennurbs.
+D:\C++&Java\opennurbs-7.x\opennurbs_public.h(72,27): warning C4129: 'C': 無法辨識的字元逸出序列
+D:\C++&Java\opennurbs-7.x\opennurbs_public.h(72,27): warning C4129: 'o': 無法辨識的字元逸出序列
+D:\C++&Java\opennurbs-7.x\opennurbs_public.h(73,27): warning C4129: 'C': 無法辨識的字元逸出序列
+D:\C++&Java\opennurbs-7.x\opennurbs_public.h(73,27): warning C4129: 'o': 無法辨識的字元逸出序列
+D:\C++&Java\opennurbs-7.x\opennurbs_public.h(74,27): warning C4129: 'C': 無法辨識的字元逸出序列
+D:\C++&Java\opennurbs-7.x\opennurbs_public.h(74,27): warning C4129: 'o': 無法辨識的字元逸出序列
+  Bridge.cpp
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(3,10): fatal error C1083: 無法開啟包含檔案: 'opennurbs.h': No such file or directory
+  dllmain.cpp
+  Test_1_PointAdd.cpp
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(3,10): fatal error C1083: 無法開啟包含檔案: 'opennurbs.h': No such file or directory
+  正在產生程式碼...
